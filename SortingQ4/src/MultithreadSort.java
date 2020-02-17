@@ -4,6 +4,7 @@ import java.util.Scanner;
 /**
  * Implements the recursive merge sort algorithm
  * with multithreading approach
+ * @author Preeti Sajjan
  */
 class MultithreadSort{
 	
